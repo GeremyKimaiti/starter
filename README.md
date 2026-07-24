@@ -4,7 +4,7 @@ Welcome to my beginner programming portfolio! This website showcases my journey 
 
 ## 📚 About Me
 
-I'm a 16-year-old early college student learning to code. I've completed Java basics through Computer Programming 1 and 2 courses, and I'm now researching the basics of Python. This portfolio will track my progress and showcase the projects I build along the way.
+I'm a 16 year old early college student learning to code. I've completed Java basics through Computer Programming 1 and 2 courses, and I'm now researching the basics of Python. This portfolio will track my progress and showcase the projects I build along the way.
 
 ## 🛠️ Skills
 
