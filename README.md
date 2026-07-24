@@ -23,7 +23,7 @@ Feel free to reach out to me:
 - **Email**: [geremykimaiti@gmail.com](https://mail.google.com/)
 - **GitHub**: [@GeremyKimaiti](https://github.com/GeremyKimaiti)
 - **Twitter/X**: https://x.com/GKimaiti56827jb
-- **Discord**: geremy0131
+- **Discord**: [geremy0131 - Click to DM](https://discord.com/users/1298435734427930697)
 
 ## 📄 License
 
