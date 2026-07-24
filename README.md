@@ -20,7 +20,7 @@ I'm a 16 year old early college student learning to code. I've completed Java ba
 ## 📧 Contact
 
 Feel free to reach out to me:
-- **Email**: [geremykimaiti@gmail.com](mailto:geremykimaiti@gmail.com)
+- **Email**: [geremykimaiti@gmail.com](https://mail.google.com/)
 - **GitHub**: [@GeremyKimaiti](https://github.com/GeremyKimaiti)
 - **Twitter/X**: https://x.com/GKimaiti56827jb
 - **Discord**: geremy0131
