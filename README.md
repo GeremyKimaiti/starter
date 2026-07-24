@@ -33,7 +33,7 @@ I'll be adding projects here as I build them. Check back soon!
 ## 📧 Contact
 
 Feel free to reach out to me:
-- Email: your-email@example.com
+- Email: geremykimaiti@gmail.com
 - GitHub: [@GeremyKimaiti](https://github.com/GeremyKimaiti)
 
 ## 📄 License
